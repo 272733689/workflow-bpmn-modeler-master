@@ -50,7 +50,7 @@ export default {
           this.xml = xml
         })
     },
-    saveModeler(data) {    
+    saveModeler(data) {
       console.log("看看是否保存")
       console.log(data)
     }
